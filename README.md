@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Manju 👋
+## About Me
+- 📊 I'm interested in Data Analytics
+- ☁️ I'm learning Microsoft Azure and cloud technologies
+- 📈 I have experience with Power BI and Microsoft Excel
+- 🗄️ I have experience using SQL for data analysis
+- 🎓 I'm currently developing my skills through Mission Ready
+- 📍 Auckland, New Zealand
+## My Skills
+- Microsoft Azure
+- SQL
+- Power BI
+- Microsoft Excel
+- Data Analysis
+## My Projects
+I'm currently building my GitHub portfolio and adding my data analytics and Mission Ready projects.
 
-<!--
-**ManjuUni/ManjuUni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
